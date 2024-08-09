@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.right-tot-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  min-height: 100vh;
+}
+
+.texter {
+  font-weight: bold;
+  font-size: 23px;
+  color: #323f4b;
+  word-wrap: break-word;
+  text-align: center;
+  width: 400px;
+}
+
+.texter {
+  font-weight: bold;
+  font-size: 16px;
+  color: #3a4b63;
+  word-wrap: break-word;
+  text-align: center;
+  width: 400px;
+}
+
+.iconer {
+  width: 350px;
+  height: 350px;
+}
+
+.iconer2 {
+  width: 100px;
+  height: 100px;
+}
+
+.buttoner {
+  width: 140px;
+  height: 35px;
+  border-width: 0px;
+  color: #ffffff;
+  background-color: #0967d2;
+  font-weight: bold;
+  border-radius: 10px;
+}

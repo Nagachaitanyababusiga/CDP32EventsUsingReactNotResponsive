@@ -1,0 +1,23 @@
+.imger {
+  width: 200px;
+  height: 120px;
+}
+.success-imager {
+  width: 200px;
+  height: 120px;
+  border: 3px #0967d2 solid;
+}
+.li-itm {
+  background-color: transparent;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  width: 45%;
+  color: #ffffff;
+  font-weight: bold;
+}
+.btner {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}

@@ -1,0 +1,31 @@
+.tot-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  min-height: 100vh;
+}
+.lst-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-color: #323f4b;
+  width: 55%;
+  min-height: 100vh;
+  padding: 30px;
+  color: #ffffff;
+}
+.lst {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
